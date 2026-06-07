@@ -31,16 +31,6 @@ These days you'll usually find me:
 
 ---
 
-## 🎯 Current Missions
-
-```text
-✓ Touching grass regularly
-
-✓ Learn something difficult every week
-```
-
----
-
 ## ⚔️ Daily Drivers
 
 ### Languages
@@ -53,6 +43,8 @@ These days you'll usually find me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
 </div>
 
 ### AI & Data
@@ -81,23 +73,11 @@ These days you'll usually find me:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prince_ampofo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince_ampofo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prince_ampofo&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=princeampofo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -130,8 +110,4 @@ When I'm not coding you'll probably find me:
 
 ---
 
-<div align="center">
 
-### 🚀 Teaching machines to find answers. Teaching systems to find problems.
-
-</div>
