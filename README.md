@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Prince+👋;Teaching+machines+to+find+answers.;Teaching+systems+to+find+problems.;Building+cool+stuff+with+AI+and+data.;Turning+data+into+decisions." />
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hey+there%2C+I%27m+Prince+%F0%9F%91%8B;Teaching+machines+to+find+answers.;Teaching+systems+to+find+problems.;Building+cool+stuff+with+AI+and+data.;Turning+data+into+decisions."
+    alt="Typing SVG"
+  />
+</div>
 
 # 👨🏾‍💻 Prince Ampofo
 
