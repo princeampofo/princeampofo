@@ -80,16 +80,6 @@ These days you'll usually find me:
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=princeampofo&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌍 Outside of Code
 
 When I'm not coding you'll probably find me:
