@@ -1,90 +1,57 @@
 <div align="center">
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hey+there%2C+I%27m+Prince+%F0%9F%91%8B;Teaching+machines+to+find+answers.;Teaching+systems+to+find+problems.;Building+cool+stuff+with+AI+and+data.;Turning+data+into+decisions."
-    alt="Typing SVG"
-  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5b2a86,100:58a6ff&height=140&section=header" width="100%"/>
 
-# 👨🏾‍💻 Prince Ampofo
+<img src="assets/macbook.svg" alt="MacBook terminal intro" width="820"/>
 
-### Engineer • Researcher • Builder
+<br/>
 
-*"Some people collect data. I like making it useful."*
+<a href="https://www.linkedin.com/in/pla252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:princeampofo213@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ About
 
-I'm a software engineer and graduate student who enjoys building systems that turn massive amounts of data into something people can actually use.
+I'm a software engineer who enjoys building systems that turn massive amounts of data into something people can actually use.
 
-Currently pursuing an M.S. in Computer Science while exploring the intersection of:
+I'm exploring the intersection of:
 
 ```text
-AI × Search × Data Systems × Observability
+Software Engineering  ×  AI  ×  Machine Learning
 ```
 
-These days you'll usually find me:
-
-* 🔍 Building retrieval systems that help AI find the right information
-* 🤖 Experimenting with RAG, LLMs, and intelligent agents
-* ⚙️ Designing backend systems that can handle the scale and complexity of modern AI applications.
-* ☕ Debugging issues that somehow disappear the moment logging is added
-
----
-
-## ⚔️ Daily Drivers
-
-### Languages
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-    <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-    <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
-</div>
-
-### AI & Data
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-</div>
-
-### Backend & Infrastructure
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
-</div>
+| | |
+|---|---|
+| 🧠 **LLM Training & Fine-tuning** | Adapting and training language models to do real work well |
+| 🤖 **LLMs & Agents** | Experimenting with language models and intelligent agents |
+| ⚙️ **Backend** | Designing services that handle the scale of modern AI apps |
+| ☕ **Debugging** | Issues that somehow vanish the moment logging is added |
 
 ---
 
-## 🔥 Streak Stats
+## 🛠️ Toolbox
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=princeampofo&theme=tokyonight&hide_border=true"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,go&theme=dark"/>
+
+Frameworks & Libraries
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48"/>
+
+AI & Data
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=spring,postgres,docker,kubernetes,aws&theme=dark"/>
 
 </div>
 
@@ -92,29 +59,10 @@ These days you'll usually find me:
 
 ## 🌍 Outside of Code
 
-When I'm not coding you'll probably find me:
+✈️ Exploring a new city  ·  🏋🏾 One more set is always a good idea  ·  💡 Thinking about the next thing I want to build
 
-* ✈️ Exploring a new city
-* 🏋🏾 In the gym convincing myself one more set is a good idea
-* 🎓 Trying to survive graduate school
-* 💡 Thinking about the next thing I want to build
+<div align="center">
 
----
-
-## 📫 Let's Connect
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/pla252">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:princeampofo213@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:5b2a86,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-
----
-
-
