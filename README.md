@@ -26,7 +26,6 @@ Software Engineering  ×  AI  ×  Machine Learning
 
 | | |
 |---|---|
-| 🧠 **LLM Training & Fine-tuning** | Adapting and training language models to do real work well |
 | 🤖 **LLMs & Agents** | Experimenting with language models and intelligent agents |
 | ⚙️ **Backend** | Designing services that handle the scale of modern AI apps |
 | ☕ **Debugging** | Issues that somehow vanish the moment logging is added |
